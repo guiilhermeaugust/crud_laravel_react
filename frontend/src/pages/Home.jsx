@@ -15,9 +15,9 @@ function Home() {
   const [users, setUsers] = useState([
     // {
     //   id: 1,
-    //   name: "Rafa",
-    //   email: "rafa@eduteka.com.br",
-    //   date_of_birth: "01/01/2000",
+    //   name: "Gui",
+    //   email: "gui@gmail.com",
+    //   date_of_birth: "12/11/2000",
     // },
   ]);
 
